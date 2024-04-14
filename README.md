@@ -5,7 +5,7 @@ A Packet logger for minecraft 1.8.9 (WIP)
 Just for fun, do not use this project to steal any client's bypasses (except sleep).
 
 ## Features
-
+1
 - Log obfuscated client (tested: faiths, novoline, moon, phantom)
 - Decode packet detailed information
 - Work in online server
